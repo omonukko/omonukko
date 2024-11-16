@@ -8,4 +8,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonukko&layout=compact)
 
 
-[Good Package](https://github.com/omonukko/pix-chan-for-ts-js)
+## About Me
+```
+Name:もち、おもぬっこ
+Age:13
+```
+
+## Skills
+- **Languages:** TypeScript,JavaScript
+- **Use Tools:** CloudFlare Workers,CloudFlare Pages
+
+## Contacts
+Discord:u3xv,2g7d
+Twitter:https://x.com/omonukko
