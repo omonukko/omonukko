@@ -19,5 +19,5 @@ Age:13
 - **Use Tools:** CloudFlare Workers,CloudFlare Pages
 
 ## Contacts
-- **Discord:**u3xv,2g7d
-- **Twitter:**https://x.com/omonukko
+- **Discord:** u3xv,2g7d
+- **Twitter:** https://x.com/omonukko
