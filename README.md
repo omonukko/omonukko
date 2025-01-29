@@ -15,9 +15,13 @@ Age:13
 ```
 
 ## Skills
-- **Languages:** TypeScript,JavaScript
-- **Use Tools:** CloudFlare Workers,CloudFlare Pages
+- **Languages:** TypeScript,JavaScript,Python
+- **Use Tools:** cf tunnel
 
 ## Contacts
-- **Discord:** u3xv,2g7d
+- **Discord:** p3x6
 - **Twitter:** https://x.com/omonukko
+
+## More
+- **Site:** https://omonukko.jp
+- **Link Tree:** https://linktr.ee/omonukko
