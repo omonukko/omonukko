@@ -16,7 +16,7 @@ Age:13
 
 ## Skills
 - **Languages:** TypeScript,JavaScript,Python
-- **Use Tools:** cf tunnel
+- **Use Tools:** cloudflare
 
 ## Contacts
 - **Discord:** p3x6
