@@ -6,22 +6,3 @@
 
 ![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omonukko&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omonukko&layout=compact)
-
-
-## About Me
-```
-Name:もち、おもぬっこ
-Age:13
-```
-
-## Skills
-- **Languages:** TypeScript,JavaScript,Python
-- **Use Tools:** cloudflare
-
-## Contacts
-- **Discord:** i.dont_know_lol
-- **Twitter:** https://x.com/omonukko
-
-## More
-- **Site:** https://omonukko.jp
-- **Link Tree:** https://linktr.ee/omonukko
