@@ -9,4 +9,4 @@
 
 
 ### Projects:
-> VoidCap(https://voidcap.space)
+> Private Solver(HCaptcha, MTCaptcha, more)
