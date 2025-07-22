@@ -10,3 +10,7 @@
 
 ### Projects:
 > Private Solver(HCaptcha, MTCaptcha, more)
+
+
+
+**Owner of HotCaptcha(https://github.com/HotCaptcha)**
