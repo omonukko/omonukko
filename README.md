@@ -1,15 +1,28 @@
-<p align="left"> 
-  <img alt="Github Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=omonukko&show_icons=true&theme=dark" />
-  <img alt="Infos" height="150px" src="https://github-readme-stats.vercel.app/api?username=omonukko&count_private=true&show_icons=true&show_icons=true&theme=tokyonight&custom_title=status" />
+<p align="center"> 
+  <img alt="GitHub Stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=omonukko&show_icons=true&count_private=true&theme=tokyonight&custom_title=GitHub+Stats" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omonukko&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omonukko&theme=tokyonight" />
+</p>
 
-![Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omonukko&theme=tokyonight)
+---
 
+### 🚀 Projects
 
-### Projects:
-> Private Solver(HCaptcha, MTCaptcha, more captchas...)
-> Residential Proxy(Coming Soon...)
+- 🔐 **Private Solver**  
+  Handles [HCaptcha](https://www.hcaptcha.com/), MTCaptcha, and more.
 
+- 🕸 **Residential Proxy**  
+  *Coming soon...*
 
-**Owner of HotCaptcha(https://github.com/HotCaptcha)**
+- 🔥 **Owner of [HotCaptcha](https://github.com/HotCaptcha)**  
+  Advanced captcha-solving solution.
+
+---
+
+### 🧩 Skills & Focus
+
+- Python, JavaScript, Web Automation
+- Bot Development, Captcha Solvers
