@@ -11,8 +11,8 @@
 
 ### 🚀 Projects
 
-- 🔐 **Private Solver**  
-  Handles [HCaptcha](https://www.hcaptcha.com/), MTCaptcha, and more.
+- 🔐 **SkySolve**  
+  [SkySolve](https://skysolve.xyz)
 
 - 🕸 **Residential Proxy**  
   *Coming soon...*
@@ -26,3 +26,12 @@
 
 - Python, JavaScript, Web Automation
 - Bot Development, Captcha Solvers
+
+<p href="https://discord.com/users/603067666277597186" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=omonukko&theme=tokyonight&show_icons=true">
+</p>
+
+<h3 align="center">
+   <a href="https://discord.com/users/603067666277597186/"><img src="https://lanyard.cnrad.dev/api/603067666277597186?bg=0d1117" height="180" width="auto"></a>
+     <br> 
+</h3>
