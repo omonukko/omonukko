@@ -31,4 +31,4 @@
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=omonukko&theme=tokyonight&show_icons=true">
 </p>
 
-<a href="https://discord.com/users/603067666277597186"><img src="https://lanyard.cnrad.dev/api/603067666277597186?theme=dark&bg=6be7ff" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/603067666277597186?showDisplayName=true&theme=dark&bg=6be7ff&idleMessage=Idling&borderRadius=10px)](https://discord.com/users/603067666277597186)
