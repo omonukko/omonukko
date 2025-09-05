@@ -7,28 +7,5 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omonukko&theme=tokyonight" />
 </p>
 
----
-
-### 🚀 Projects
-
-- 🔐 **SkySolve**  
-  [SkySolve](https://skysolve.xyz)
-
-- 🕸 **Residential Proxy**  
-  *Coming soon...*
-
-- 🔥 **Owner of [HotCaptcha](https://github.com/HotCaptcha)**  
-  Advanced captcha-solving solution.
-
----
-
-### 🧩 Skills & Focus
-
-- Python, JavaScript, Web Automation
-- Bot Development, Captcha Solvers
-
-<p href="https://discord.com/users/603067666277597186" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=omonukko&theme=tokyonight&show_icons=true">
-</p>
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/603067666277597186?showDisplayName=true&theme=dark&idleMessage=Idling&borderRadius=10px)](https://discord.com/users/603067666277597186)
+[![Spotify](https://www.spotynif.sbs/dala/embed.html?id=603067666277597186&showArtist=true&showProgress=true&showAlbum=true&showUsername=false&showDuration=true&showStatus=true&theme=dark&custom=&songColor=&artistColor=&usernameColor=&customTextColor=&progressBgColor=&progressFillColor=&songEffect=glow&artistEffect=none&usernameEffect=none&customTextEffect=none&cardEntrance=none&cardHover=none&albumArtEffect=none&progressStyle=default&progressHeight=6&progressRadius=3)
